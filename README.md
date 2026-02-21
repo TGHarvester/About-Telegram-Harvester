@@ -47,7 +47,11 @@
 + ТГ Софт для профи, создающих сложные связки (114+ модулей)
 + ТГ Софт для новичков со стандартными модулями и встроенным ChatGPT (32 модуля - спам, инвайт, нейрокомментинг и т.д.)
 
- [YOUTUBE VIDEO](https://youtu.be/4Pr1ulaIoPE)
+---
+
+[![Как за 10 минут написать инвайтер](https://img.youtube.com/vi/vhwADal_JUI/0.jpg)](https://www.youtube.com/watch?v=vhwADal_JUI)
+
+---
 
 ## VK-КОМБАЙН:
 
