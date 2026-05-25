@@ -74,6 +74,6 @@
 |Основной канал|  [ТЕЛЕГРАМ-КОМБАЙН](https://t.me/+QJw0HIzKdx0xYjY0)
 |Отзывы|  [Канал с отзывами](https://t.me/tgharvesterreview)
 |Youtube|   [@ДешевыйТрафикТелеграм](https://www.youtube.com/@ДешевыйТрафикТелеграм)
-|Сайт|  [https://alexsoftclub.biz(https://alexsoftclub.biz/)
+|Сайт|  [https://alexsoftclub.biz](https://alexsoftclub.biz/)
 
 [^1]:Данный софт подерживается только(!) на Windows 10 и выше и Windows Server 2019 и выше.
